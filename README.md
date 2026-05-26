@@ -6,4 +6,4 @@
 - Learn English
 - Learn Japanese   
 ## Daily Study
-Starting my tech journey   年代
+Starting my tech journey 
